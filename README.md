@@ -1,7 +1,7 @@
 ## 🟪 ravissement
-- [블로그](https://ravissement.tistory.com/)
-- [개인 위키](https://ravissement.github.io/)
-- [인스타그램](https://www.instagram.com/ravissement_official/)
+- [blog](https://ravissement.tistory.com/)
+- [wiki](https://ravissement.github.io/)
+- [instagram](https://www.instagram.com/ravissement_official/)
 
 <!--
 **ravissement/ravissement** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
