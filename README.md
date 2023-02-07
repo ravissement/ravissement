@@ -1,5 +1,5 @@
 ## 🈸 ravissement
-- [null](https://ravissement.gitbook.com/)
+- [null](https://ravissement.gitbook.io/)
 - [wiki](https://ravissement.github.io/)
 - [instagram](https://www.instagram.com/ravissement_official/)
 
