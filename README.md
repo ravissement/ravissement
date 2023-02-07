@@ -1,5 +1,5 @@
 ## 🈸 ravissement
-- [blog](https://ravissement.tistory.com/)
+- [null](https://ravissement.gitbook.com/)
 - [wiki](https://ravissement.github.io/)
 - [instagram](https://www.instagram.com/ravissement_official/)
 
